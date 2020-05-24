@@ -57,7 +57,8 @@ if __name__ == '__main__':
     ## --- Your code here --- ##
     
 
-    ## TODO: Define a model 
+    ## TODO: Define a model
+ 
     model = LinearSVC()
     
     
